@@ -1,0 +1,47 @@
+﻿@model IEnumerable<RealEstate.Models.Review>
+
+@{
+    ViewData["Title"] = "LoadAllReviews";
+}
+
+<div class="container" style="margin-top:5%">
+    <div class="mbp_first media" style="margin-top: 2%; display: inline-block;">
+        @foreach (var review in @ViewBag.reviews)
+        {
+            var user = await UserManager.FindByIdAsync(review.UserID);
+            var gender = user.gender;
+            var mail = user.Email.Split("@");
+            var name = mail[0];
+            
+            if (gender == Gender.Male)
+            {
+                <img src="~/images/team/Male.jpg" class="mr-3 rounded-circle" alt="Male Jpg" style="width: 50px; height:50px ; margin-bottom: 22%">
+            }
+            else if (gender == Gender.Female)
+            {
+                <img src="~/images/team/Female.jpg" alt="Female Jpg" class="mr-3 rounded-circle" style="width: 50px; height:50px ; margin-bottom: 22%">
+            }
+            <div class="media-body" style="display: inline-block;">
+                <h4 class="sub_title mt-0">
+
+                    @name
+                    <div class="sspd_review dif">
+                        <ul class="ml10">
+                            @for (int i = 0; i < review.PropertyRate; i++)
+                            {
+                                <li class="list-inline-item"><a href="#"><i class="fa fa-star" style="color:limegreen"></i></a></li>
+                            }
+                            @for (int i = 0; i < 5 - review.PropertyRate; i++)
+                            {
+                                <li class="list-inline-item"><a href="#"><i class="fa fa-star" style="color:darkgray"></i></a></li>
+                            }
+                        </ul>
+                    </div>
+                </h4>
+                <a class="sspd_postdate fz14" href="#">@review.Date</a>
+                <p class="mt10">@review.Body</p>
+            </div>
+            <div style="margin-top:2%"></div>
+        }
+    </div>
+</div>

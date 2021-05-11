@@ -1,0 +1,66 @@
+﻿@model IEnumerable<RealEstate.Models.Review>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <h1>All Reviews</h1>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Body)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PropertyRate)
+                </th>
+                <th>
+                    @Html.DisplayName("Edit")
+                </th>
+                <th>
+                    @Html.DisplayName("Details")
+                </th>
+                <th>
+                    @Html.DisplayName("Delete")
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Body)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PropertyRate)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ReviewID" class="btn btn-info">Edit</a>
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.ReviewID" class="btn btn-success">Details</a>
+                    </td>
+                    <td>
+                        <a asp-action="Delete" asp-route-id="@item.ReviewID" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

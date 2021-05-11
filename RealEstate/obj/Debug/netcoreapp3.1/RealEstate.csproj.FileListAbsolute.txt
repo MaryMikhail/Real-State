@@ -1,0 +1,1286 @@
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.StaticWebAssets.xml
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.Manifest.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.xml
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\RealEstate.styles.css
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.input.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.output.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorCoreGenerate.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Locations\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Locations\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Locations\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Locations\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Locations\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.Views.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CopyComplete
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\AspCore RealEstate\RealEstate Solution\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.StaticWebAssets.xml
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.Manifest.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.xml
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\RealEstate.styles.css
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.input.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.output.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorCoreGenerate.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.Views.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CopyComplete
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\LoadAllReviews.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\TermsAndConditions.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\AppError.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Contact.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\CreateContact.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Send.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\AllProperties.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csprojAssemblyReference.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Real Estate Project\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.StaticWebAssets.xml
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.pdb
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.Manifest.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.xml
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\RealEstate.styles.css
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.input.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.output.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorCoreGenerate.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Contact.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Create.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\CreateContact.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Send.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\AppError.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\TermsAndConditions.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Create.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Delete.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Details.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Edit.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Index.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\AllProperties.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Create.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Delete.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Details.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Edit.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Index.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\LoadAllReviews.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Create.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Details.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cs
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.Views.pdb
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CopyComplete
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache
+D:\shimaa\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csprojAssemblyReference.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.StaticWebAssets.xml
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csprojAssemblyReference.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.Manifest.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.xml
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\RealEstate.styles.css
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.input.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.output.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorCoreGenerate.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Contact.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\CreateContact.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Send.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\AppError.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\TermsAndConditions.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\AllProperties.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\LoadAllReviews.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.Views.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CopyComplete
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.StaticWebAssets.xml
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csprojAssemblyReference.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.Manifest.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.xml
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\RealEstate.styles.css
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.input.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.output.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorCoreGenerate.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Contact.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\CreateContact.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Send.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\AppError.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\TermsAndConditions.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\AllProperties.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\LoadAllReviews.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Create.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Details.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cache
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cs
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.Views.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CopyComplete
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+C:\Users\Christina Bekheet\Desktop\FinalMVC V1 - Copy\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.StaticWebAssets.xml
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.exe
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.deps.json
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.json
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.runtimeconfig.dev.json
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\RealEstate.Views.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfoInputs.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.AssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CoreCompileInputs.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.Manifest.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\staticwebassets\RealEstate.StaticWebAssets.xml
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\RealEstate.styles.css
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.input.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.TagHelpers.output.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorCoreGenerate.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Contact.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\CreateContact.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Send.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\AppError.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Error\PageNotFound.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Blog.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Error.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\TermsAndConditions.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Images\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\AllProperties.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\LoadAllReviews.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Create.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Details.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.RazorTargetAssemblyInfo.cs
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.Views.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csproj.CopyComplete
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.dll
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.pdb
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.genruntimeconfig.cache
+F:\ITI SD Intake 41\ASP.Net MVC\Asp Core Real Estate Project\FinalMVC\AspCoreProject\RealEstate\obj\Debug\netcoreapp3.1\RealEstate.csprojAssemblyReference.cache

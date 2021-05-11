@@ -1,0 +1,116 @@
+﻿@page
+@model RegisterModel
+<!-- Inner Page Breadcrumb -->
+<section class="inner_page_breadcrumb">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6">
+                <div class="breadcrumb_content">
+                    <h4 class="breadcrumb_title">Register</h4>
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Register</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="our-log-reg bgc-fa">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-6 offset-lg-3">
+                <div class="sign_up_form inner_page">
+                    <div class="heading">
+                        <h3 class="text-center">Register to start learning</h3>
+                        <p class="text-center">Have an account? <a class="text-thm" asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl">Login</a></p>
+                    </div>
+                    <div class="details">
+                        <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+
+                            <hr />
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <div class="form-group">
+                                <input asp-for="Input.Email" class="form-control" placeholder="Email Address" />
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="Input.Password" class="form-control" placeholder="Password" />
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input asp-for="Input.ConfirmPassword" class="form-control" placeholder="Confirm Password" />
+                                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <select asp-for="Input.UserType" asp-items="Html.GetEnumSelectList<UserType>()" class="form-control">
+                                    <option selected="selected" value="">Please select</option>
+                                </select>
+                                <span asp-validation-for="Input.UserType" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <select asp-for="Input.gender" asp-items="Html.GetEnumSelectList<Gender>()" class="form-control">
+                                    <option selected="selected" value="" class="text-muted" >Please select</option>
+                                </select>
+                                <span asp-validation-for="Input.gender" class="text-danger"></span>
+                            </div>
+                     
+                            <button type="submit" class="btn btn-log btn-block btn-thm2">Register</button>
+                        </form>
+                    </div>
+                    <div class="divide">
+                        <span class="lf_divider">Or</span>
+                        <hr>
+                    </div>
+
+                    @{
+                        if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                        {
+                            <div>
+                                <p>
+                                    There are no external authentication services configured. See <a href="https://go.microsoft.com/fwlink/?LinkID=532715">this article</a>
+                                    for details on setting up this ASP.NET application to support logging in via external services.
+                                </p>
+                            </div>
+                        }
+                        else
+                        {
+                <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                    <div class="row mt40">
+                        <p>
+                            @foreach (var provider in Model.ExternalLogins)
+                            {
+
+                                if (@provider.DisplayName == "Facebook")
+                                {
+
+                                    <div class="col-lg">
+                                        <button type="submit" class="btn btn-block color-white bgc-fb mb0" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account"><i class="fa fa-facebook float-left mt5"></i>@provider.DisplayName</button>
+                                    </div>
+                                }
+                                else if (@provider.DisplayName == "Google")
+                                {
+
+                                    <div class="col-lg">
+                                        <button type="submit" class="btn btn2 btn-block color-white bgc-gogle mb0" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account"> <i class="fa fa-google float-left mt5"></i>@provider.DisplayName</button>
+                                    </div>
+                                }
+                            }
+                        </p>
+                    </div>
+                </form>
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

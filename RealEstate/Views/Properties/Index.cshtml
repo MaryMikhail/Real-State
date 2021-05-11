@@ -1,0 +1,205 @@
+﻿@model IEnumerable<RealEstate.Models.Property>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Listing Grid View -->
+<section class="our-listing bgc-f7 pb30-991">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="breadcrumb_content style2 mb0-991">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active text-thm" aria-current="page">
+                            Simple Listing – Grid
+                            View
+                        </li>
+                    </ol>
+                    <h2 class="breadcrumb_title">Simple Listing – Grid View</h2>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="listing_list_style mb20-xsd tal-991">
+                    <ul class="mb0">
+                        <li class="list-inline-item"><a href="#"><span class="fa fa-th-large"></span></a></li>
+                        <li class="list-inline-item"><a href="#"><span class="fa fa-th-list"></span></a></li>
+                    </ul>
+                </div>
+                <div class="dn db-991 mt30 mb0">
+                    <div id="main2">
+                        <span id="open2" class="flaticon-filter-results-button filter_open_btn style2">
+                            Show
+                            Filter
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-12 col-lg-12">
+            <div class="row">
+                @{
+                    foreach (var item in Model)
+                    {
+                        List<Image> propertyImgs = new List<Image>();
+                        foreach (Image image in ViewBag.Images)
+                        {
+
+                            @if (item.PropertyID == image.PropertyID)
+                            {
+                                propertyImgs.Add(image);
+                            }
+                        }
+
+                        <div class="col-md-6 col-lg-4">
+                            <div class="feat_property home7 style4">
+                                <div class="thumb">
+                                    <div class="fp_single_item_slider">
+                                        @foreach (Image image in propertyImgs)
+                                        {
+                                            <div class="item">
+                                                <img class="img-whp" src="~/images/property/@image.ImgData" alt="@image.ImgData">
+                                            </div>
+                                        }
+
+                                        <div class="item">
+                                            <img class="img-whp" src="~/images/property/1.jpg" alt="fp1.jpg">
+                                        </div>
+                                    </div>
+                                    <div class="thmb_cntnt style2">
+                                        <ul class="tag mb0">
+                                            <li class="list-inline-item"><a asp-action="Details" asp-route-id="@item.PropertyID" asp-controller="Properties">@item.PropertyStatus</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="thmb_cntnt style3">
+                                        <ul class="icon mb0">
+                                            <li class="list-inline-item">
+                                                <a href="#">
+                                                    <span class="flaticon-transfer-1"></span>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">
+                                                    <span class="flaticon-heart"></span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <a class="fp_price" href="#">$@item.Price<small>/mo</small></a>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div class="tc_content">
+                                        <p class="text-thm">@item.PropertyType</p>
+                                        <h4>@item.Title</h4>
+                                        <p>
+                                            <span class="flaticon-placeholder"></span> @item.Address | @item.City | @item.Country
+                                        </p>
+                                        <ul class="prop_details mb0">
+                                            <li class="list-inline-item"><a href="#">Beds: @item.Rooms</a></li>
+                                            <li class="list-inline-item"><a href="#">Baths: @item.Bathrooms</a></li>
+                                            <li class="list-inline-item"><a href="#">Sq Ft: @item.AreaSize</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="fp_footer">
+                                        <ul class="fp_meta float-left mb0">
+                                            <li class="list-inline-item">
+                                                <a href="#">
+                                                    @{
+                                                        var user = await UserManager.FindByIdAsync(@item.UserID);
+                                                        var gender = user.gender;
+                                                        var mail = user.Email.Split("@");
+                                                        var name = mail[0];
+                                                    }
+                                                    @if (gender == Gender.Female)
+                                                    {
+                                                        <img src="~/images/team/Female.jpg" class="rounded-circle" alt="Female jpg" style="width:50px; height:50px">
+                                                    }
+                                                    @if (gender == Gender.Male)
+                                                    {
+                                                        <img src="~/images/team/Male.jpg" class="rounded-circle" alt="Male jpg" style="width:50px; height:50px">
+                                                    }
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item"><a href="#">@name</a></li>
+                                        </ul>
+                                        <div class="fp_pdate float-right">@item.YearBuilt</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-xl-4">
+                <div class="sidebar_listing_grid1 dn-991">
+                    <div class="terms_condition_widget">
+                        <h4 class="title text-dark font-weight-bold">Categories Property</h4>
+                        <div class="widget_list">
+                            <ul class="list_details">
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-caret-right mr10"></i><sapn class="text-primary" style="font-weight:bold">Apartment</sapn> <span class="float-right text-danger font-weight-bold">@ViewBag.ApartmentProp properties</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-caret-right mr10"></i><sapn class="text-primary" style="font-weight:bold">House </sapn><span class="float-right text-danger font-weight-bold">@ViewBag.HouseProp properties</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-caret-right mr10"></i><sapn class="text-primary" style="font-weight:bold">Land </sapn><span class="float-right text-danger font-weight-bold">@ViewBag.LandProp properties</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-caret-right mr10"></i><sapn class="text-primary" style="font-weight:bold">Singel Family </sapn><span class="float-right text-danger font-weight-bold">@ViewBag.SingelFamilyProp properties</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-caret-right mr10"></i><sapn class="text-primary" style="font-weight:bold">Bungalow </sapn><span class="float-right text-danger font-weight-bold">@ViewBag.BungalowProp properties</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="fa fa-caret-right mr10"></i><sapn class="text-primary" style="font-weight:bold">Villa </sapn><span class="float-right text-danger font-weight-bold">@ViewBag.VillaProp properties</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        @* Start Pagination *@
+        <div class="col-lg-12 mt20">
+            <div class="mbp_pagination">
+                <ul class="page_navigation">
+                    <li class="page-item disabled">
+                        <a class="page-link" href="#" tabindex="-1" aria-disabled="true">
+                            <span class="flaticon-left-arrow"></span> Prev
+                        </a>
+                    </li>
+                    <li class="page-item"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item active" aria-current="page">
+                        <a class="page-link" href="#">2 <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link" href="#">...</a></li>
+                    <li class="page-item"><a class="page-link" href="#">29</a></li>
+                    <li class="page-item">
+                        <a class="page-link" href="#"><span class="flaticon-right-arrow"></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        @* End Pagination *@
+    </div>
+</section>
